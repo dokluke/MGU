@@ -1,6 +1,6 @@
 body{
     background-color: rgba(0, 0, 0);
-    color: rgba(200,200,200,1); 
+    color: rgb(236, 164, 6); 
     font-family: Impact;
     font-size: 10pt;    
 }
@@ -13,18 +13,27 @@ body{
 }    
 
 #Cards{
-    background-color: rgb(156, 161, 156);
+    background-color: rgb(60, 60, 60);
+}
+#Cards:hover{
+    background-color: rgb(198, 170, 57);
+     
 }
 
 .TituloCard{
     font-weigth: bold;
     font-size: 18pt;
-    color: rgba(255,255,255,1);
+    color: rgb(199, 154, 6);
     text-decoration: none;
+}
+#DivRodape{
+    height:50px;
+    width: 8px;
 }
 
 .ImgCard{
     
-   width: 250px;
-   height: 250px;
+    height:100%;
+    width: 100%;
+   
 }
