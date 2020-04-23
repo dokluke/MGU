@@ -10,7 +10,7 @@
         <!-- configurações da página-->
          
     
-        <title>MGU - Calendário </title>
+        <title>MGU - Pilotos </title>
 
     </head>
 
@@ -46,27 +46,25 @@
        <div class="container">
             <div class="row"> 
                 <div class="col-md-12 text-center">
-                    <font class="TituloPagina">Calendário 2020</font>
+                    <font class="TituloPagina">Pilotos</font>
 
                     <br><br><br><br><br><br><br>
 
                 </div>
 
-            </div>           
-               
+            </div>   
                <div class="row">
                 
                <div class="col-md-4 text-center" id="DivCard1">
              
-                    <div class="card">
-                        <div class="card-body"> 
-                        <a class="TituloMod"> Circuito da Austrália 
-                        <img src="img/circuitos/australia.png" class="img-thumbnail">
+               <div class="card">
+                        <div class="card-body">
+                        <a class="TituloMod"  > Sebastian Vettel <br>
+                        <img src="img/vettel.jpg" class="img-thumbnail" width="50%">
                 </div>
                 <hr color="black">
                 <div class="card-footer bg-dark">
-                <a class="TituloMod">Melbourne<br> <hr color="black"> 15/03/2020
-                <hr color="black"> CANCELADO DEVIADO AO COVID 19
+                <a class="TituloMod">Alemão<br> <hr color="black"> Numero de vitorias: 52
             
             </div>   
                 </div>    
@@ -74,47 +72,41 @@
 
                     <div class="col-md-4 text-center" id="DivCard2">
                     <div class="card">
-                        <div class="card-body"> 
-                        <a class="TituloMod"> Circuito de Mônaco 
-                        <img src="img/circuitos/monaco.png" class="img-thumbnail">
+                        <div class="card-body">
+                        <a class="TituloMod"  > Max Verstappen <br>
+                        <img src="img/ver.jpg" class="img-thumbnail" width="75%">
                 </div>
                 <hr color="black">
                 <div class="card-footer bg-dark">
-                <a class="TituloMod">Monte Carlo<br> <hr color="black"> 24/05/2020
-                <hr color="black"> CANCELADO DEVIADO AO COVID 19 
+                <a class="TituloMod">Holandês <br> <hr color="black"> Numero de vitorias: 8
             
             </div>   
                 </div>    
                     </div>
    
                     <div class="col-md-4 text-center" id="DivCard3">
-                <div class="card">
-                        <div class="card-body">
-                        <a class="TituloMod"> Circuito da França 
-                        <img src="img/circuitos/franca.png" class="img-thumbnail">
-                </div>
-                <hr color="black">
-                <div class="card-footer bg-dark">
-                <a class="TituloMod">Paul Ricard<br> <hr color="black"> 28/06/2020
-                <hr color="black"> Horario: 10h10. Possível Cancelamento
-                </div>
-                    </div>   
-                        </div>    
-                            </div>
-<br> <br><br><br><br> <br><br><br>
-<div class="row">
-                
-<div class="col-md-4 text-center" id="DivCard4">
-             
                     <div class="card">
-                        <div class="card-body"> 
-                        <a class="TituloMod" > Circuito da Áustria
-                        <img src="img/circuitos/austria.jpg" class="img-thumbnail">
+                        <div class="card-body">
+                        <a class="TituloMod"  > Lewis Hamilton <br>
+                        <img src="img/hel.jpg" class="img-thumbnail" width="50%">
                 </div>
                 <hr color="black">
                 <div class="card-footer bg-dark">
-                <a class="TituloMod">Spielberg<br> <hr color="black"> 05/07/2020
-                <hr color="black"> Horario:10h10. Possivel Cancelamento
+                <a class="TituloMod">Britânico <br> <hr color="black"> Numero de vitorias: 71
+            
+            </div>   
+                </div>    
+                    </div>
+<br> <br><br><br><br> <br><br><br><br><br> <br> <br><br><br><br> <br><br>
+<div class="col-md-4 text-center" id="DivCard4">
+                 <div class="card">
+                        <div class="card-body">
+                        <a class="TituloMod"  > Valtteri Bottas <br>
+                        <img src="img/bottas.jpg" class="img-thumbnail" width="60%">
+                </div>
+                <hr color="black">
+                <div class="card-footer bg-dark">
+                <a class="TituloMod">Finlandês <br> <hr color="black"> Numero de vitorias: 4
             
             </div>   
                 </div>    
@@ -123,34 +115,32 @@
                     <div class="col-md-4 text-center" id="DivCard5">
                     <div class="card">
                         <div class="card-body">
-                        <a class="TituloMod" > Circuito da Grã-Bretanha 
-                        <img src="img/circuitos/gra.jpeg" class="img-thumbnail">
+                        <a class="TituloMod"  > Alexander Albon <br>
+                        <img src="img/albon.jpg" class="img-thumbnail" width="85%">
                 </div>
                 <hr color="black">
                 <div class="card-footer bg-dark">
-                <a class="TituloMod">Silverstone<br> <hr color="black"> 19/07/2020
-                <hr color="black"> Horario: 11h10. Possivel Cancelamento
+                <a class="TituloMod">Tailandês <br> <hr color="black"> Numero de vitorias: 0
             
             </div>   
                 </div>    
                     </div>
    
                     <div class="col-md-4 text-center" id="DivCard6">
-                <div class="card">
+                    <div class="card">
                         <div class="card-body">
-                        <a class="TituloMod" > Circuito da Canadá  
-                        <img src="img/circuitos/canada.png" class="img-thumbnail">
+                        <a class="TituloMod"  > Daniel Ricciardo <br>
+                        <img src="img/ric.jpg" class="img-thumbnail" width="85%">
                 </div>
                 <hr color="black">
                 <div class="card-footer bg-dark">
-                <a class="TituloMod ">Montreal<br> <hr color="black"> 12/06/2020
-                <hr color="black"> Horario: 10h10. Possivel Cancelamento
-                </div>
-                    </div>   
-                        </div>    
-                            </div>
+                <a class="TituloMod">Australiano <br> <hr color="black"> Numero de vitorias: 7
+            
+            </div>   
+                </div>    
+                    </div>
 
-                                                 
+                                                   
 
 </div>
     </div>
@@ -163,13 +153,20 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <div class="row">
                     
-                    <div class="col-md-12" id="DivBanner">
-                    <br>
-                        <?php
-                            include "Rodape.php";
-                        ?>
-                        </div>
-                </body>    
-            </html>
+        <div class="col-md-12" id="DivBanner">
+        <br>
+            <?php
+                include "Rodape.php";
+            ?>
+            </div>
+    </body>    
+</html>

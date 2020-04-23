@@ -8,7 +8,7 @@
         <link rel="stylesheet" href="css/estilo.css" type="text/css">
 
         <!-- configurações da página-->
-        <meta charset="utf-8"> 
+         
     
         <title>MGU - F1 Database </title>
 
@@ -17,9 +17,8 @@
     <body> 
         <!-- Conteudo da pagina -->
         <div class="container-fluid">
-            <center>
-<font style="font-family: 'Gruppo', cursive;"</font>
-</center>
+            
+
             <div class="row">
 
                 <div class="col-md-12" id="DivMenu">
@@ -41,9 +40,12 @@
                 </div>
 
             </div>
+
+            <br><br><br><br><br><br><br><br><br><br>
+            
        <div class="container">
             <div class="row">  
-
+            
                 <div class="col-md-4 text-center" id="DivCard1">
                     <div class="card col-md-12" id="Cards">
                         <div class="card-header bg-dark">
@@ -138,8 +140,8 @@
                             <div class="col-md-4 text-center" id="DivCard6">
                                 <div class="card col-md-12" id="Cards">
                                 <div class="card-header bg-dark">
-                                <a href="social.php">
-                                    <font class="TituloCard"> Social </font>     
+                                <a href="contato.php">
+                                    <font class="TituloCard"> Contato </font>     
                                     </div>
                                     <div class="card-body">     
                                      <img src="img/social.png" class="img-thumnail">
@@ -155,7 +157,7 @@
 
                     </div>
 
-                    <div class="row">
+                    
 
                         
 
@@ -165,6 +167,8 @@
             </div>
 
         </div>
+
+        <div class="row">
                     
         <div class="col-md-12" id="DivBanner">
         <br>
